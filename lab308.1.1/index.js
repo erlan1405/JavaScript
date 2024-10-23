@@ -1,5 +1,5 @@
 //let a = 10;
-// let b = 5;
+//let b = 5;
 
 // {
 //     let z = a + b;
@@ -17,23 +17,23 @@
 
 // console.log(typeof null)
 
-// for (let i=6; i<=60; i++) {
+// for (let i = 6; i <= 60; i++) {
 //     if(i%3 === 0) {
 //         console.log(i)
 //     }
 // }
 
 // let output = ""
-// for (let i=0; i<=7; i++) {
+// for (let i = 0; i <= 7; i++) {
 //     output = output + "#"
 //     console.log(output)
 // }
 
-// for (let i=1; i<=9; i++) {
-//     if (i%1===1) {
+// for (let i = 1; i <= 9; i++) {
+//     if (i % 1 === 1) {
 //         console.log("prime number" + " " + i);
 //     }
-//     else if (i%2===0) {
+//     else if (i % 2 === 0) {
 //         console.log("even number" + " " + i);
 //     }
 //     else {
@@ -43,7 +43,7 @@
 
 // let str = "Hello World"
 
-// for (let i=0; i<str.length; i++) {
+// for (let i = 0; i < str.length; i++) {
 //     console.log(str[i]);
 // }
 
